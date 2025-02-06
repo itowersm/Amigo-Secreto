@@ -14,6 +14,6 @@ o si lo prefieres de aqui el enlace directo aqui https://itowersm.github.io/Amig
    
   ![image](https://github.com/user-attachments/assets/ffcf59c1-d75d-4466-9d6d-e52968bd4572)
 
-3. Por último y, una vez añadido los nombres de tus amigos, da click en el botón "Amigo Secreto" el nombre sorteado aparecera dentro del mismo botón.
+3. Por último y, una vez añadido los nombres de tus amigos, da click en el botón "Sortear Amigo" el nombre sorteado aparecera dentro del mismo botón.
    
    ![image](https://github.com/user-attachments/assets/5993b84d-158b-4943-9833-05d12b315e42)
